@@ -1,6 +1,6 @@
 # MuseuSecurity
 
-##Trabalho T3 de Microcontroladores
+###Trabalho T3 de Microcontroladores
 
 Integrantes do Grupo:
 * [Thomaz Erlach](https://github.com/thomazerlach). Email: thomazerlach@hotmail.com
