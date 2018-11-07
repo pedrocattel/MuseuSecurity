@@ -39,15 +39,15 @@ Integrantes do Grupo:
 * Python 3
 
 * LED RGB
-https://www.instructables.com/id/Raspberry-Pi-3-RGB-LED-With-Using-PWM/
+  - https://www.instructables.com/id/Raspberry-Pi-3-RGB-LED-With-Using-PWM/
 
 * Temperatura
-https://www.filipeflop.com/blog/temperatura-umidade-dht11-com-raspberry-pi/
-https://github.com/adafruit/Adafruit_Python_DHT
+  - https://www.filipeflop.com/blog/temperatura-umidade-dht11-com-raspberry-pi/
+  - https://github.com/adafruit/Adafruit_Python_DHT
 
 * Gas
-http://www.knight-of-pi.org/digital-sensors-and-the-raspberry-pi-with-the-smoke-detector-mq-x-as-example/
-https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/
-https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/
+  - http://www.knight-of-pi.org/digital-sensors-and-the-raspberry-pi-with-the-smoke-detector-mq-x-as-example/
+  - https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/
+  - https://tutorials-raspberrypi.com/configure-and-read-out-the-raspberry-pi-gas-sensor-mq-x/
 
 
