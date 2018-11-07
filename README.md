@@ -20,16 +20,19 @@ Integrantes do Grupo:
 * Protoboard com GPIO Extension Board
 * Fios
 * LED RGB
-* Sensor de Temperatura
+* Sensor de THT11
 * Sensor de Fumaça MX-2
-* 3x Resistor
+* 2x Resistor 103ohms
+* 1x Resistor 102ohms
 * Conversor 3v3 -> 5v
 
 ### Serviços Web Utilizados
 
 * Ubidots
 
+### Scripts Utilizados
 
+* T4.py
 
 
 
