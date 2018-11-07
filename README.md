@@ -36,8 +36,6 @@ Integrantes do Grupo:
 
 ### Referências e Links utilizados
 
-* Python 3
-
 * LED RGB
   - https://www.instructables.com/id/Raspberry-Pi-3-RGB-LED-With-Using-PWM/
 
